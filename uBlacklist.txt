@@ -3,7 +3,7 @@
 *://*.living-sun.com/*
 *://*.code.i-harness.com/*
 *://*.src-bin.com/*
-*://*.code-examples.net/*
+*://*.question-it.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
@@ -14,8 +14,10 @@
 *://*.utyatnishna.ru/*
 *://*.www.it-swarm-ru.tech/*
 *://*.legkovopros.ru/*
+*://*.askdev.ru/*
 
 *://*.overcoder.net/*
+*://*.code-examples.net/*
 *://*.progi.pro/*
 *://*.sprosi.pro/*
 *://*.poweruser.guru/*
