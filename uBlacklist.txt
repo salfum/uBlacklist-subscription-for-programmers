@@ -15,6 +15,8 @@
 *://*.www.it-swarm-ru.tech/*
 *://*.legkovopros.ru/*
 *://*.askdev.ru/*
+*://*.switch-case.ru/*
+*://*.quares.ru/*
 
 *://*.overcoder.net/*
 *://*.code-examples.net/*
