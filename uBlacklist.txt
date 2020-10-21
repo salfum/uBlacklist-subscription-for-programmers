@@ -4,6 +4,8 @@
 *://*.code.i-harness.com/*
 *://*.src-bin.com/*
 *://*.question-it.com/*
+*://*.stackru.com/*
+*://*.fooobar.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
