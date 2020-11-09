@@ -19,6 +19,7 @@
 *://*.askdev.ru/*
 *://*.switch-case.ru/*
 *://*.quares.ru/*
+*://*.web-answers.ru/*
 
 *://*.overcoder.net/*
 *://*.code-examples.net/*
