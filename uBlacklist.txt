@@ -20,6 +20,8 @@
 *://*.switch-case.ru/*
 *://*.quares.ru/*
 *://*.web-answers.ru/*
+*://*.rugeek.ru/*
+*://*.techarks.ru/*
 
 *://*.overcoder.net/*
 *://*.code-examples.net/*
