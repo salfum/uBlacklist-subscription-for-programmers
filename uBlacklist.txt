@@ -6,6 +6,8 @@
 *://*.question-it.com/*
 *://*.stackru.com/*
 *://*.fooobar.com/*
+*://*.codenong.com/*
+*://*.thinbug.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
@@ -14,7 +16,7 @@
 *://*.proubuntu.ru/*
 *://*.wikiroot.ru/*
 *://*.utyatnishna.ru/*
-*://*.www.it-swarm-ru.tech/*
+*://*www.it-swarm-*
 *://*.legkovopros.ru/*
 *://*.askdev.ru/*
 *://*.switch-case.ru/*
@@ -31,3 +33,5 @@
 *://*.issue.life/*
 *://*.codeflow.site/*
 *://*.stackovernet.*
+*://*.coredump.biz/*
+*://*.ifelse.info/*
