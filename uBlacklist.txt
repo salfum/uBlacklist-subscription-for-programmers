@@ -8,6 +8,7 @@
 *://*.fooobar.com/*
 *://*.codenong.com/*
 *://*.thinbug.com/*
+*://*.ubuntugeeks.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
