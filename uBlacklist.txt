@@ -9,6 +9,7 @@
 *://*.codenong.com/*
 *://*.thinbug.com/*
 *://*.ubuntugeeks.com/*
+*://*.askvoprosy.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
