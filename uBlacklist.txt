@@ -29,6 +29,7 @@
 
 *://*.overcoder.net/*
 *://*.code-examples.net/*
+*://*.py4u.net/*
 *://*.progi.pro/*
 *://*.sprosi.pro/*
 *://*.poweruser.guru/*
