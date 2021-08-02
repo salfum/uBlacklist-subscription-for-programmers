@@ -10,9 +10,14 @@
 *://*.thinbug.com/*
 *://*.ubuntugeeks.com/*
 *://*.askvoprosy.com/*
+*://*.quabr.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
+*://*.qacode.ru/*
+*://*.qa-help.ru/*
+*://*.qarus.ru/*
+*://*.qarchive.ru/*
 *://*.askubuntu.ru/*
 *://*.kompsekret.ru/*
 *://*.proubuntu.ru/*
