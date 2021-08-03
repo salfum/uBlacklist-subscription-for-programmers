@@ -11,6 +11,7 @@
 *://*.ubuntugeeks.com/*
 *://*.askvoprosy.com/*
 *://*.quabr.com/*
+*://*.try2explore.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
