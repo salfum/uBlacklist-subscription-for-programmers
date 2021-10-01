@@ -44,3 +44,4 @@
 *://*.stackovernet.*
 *://*.coredump.biz/*
 *://*.ifelse.info/*
+*://*.newbedev.com/*
