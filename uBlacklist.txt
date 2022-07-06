@@ -12,6 +12,7 @@
 *://*.askvoprosy.com/*
 *://*.quabr.com/*
 *://*.try2explore.com/*
+*://*.bestofreactjs.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
