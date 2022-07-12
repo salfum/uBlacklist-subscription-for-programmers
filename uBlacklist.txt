@@ -33,6 +33,10 @@
 *://*.web-answers.ru/*
 *://*.rugeek.ru/*
 *://*.techarks.ru/*
+*://*.codefaq.ru/*
+*://*.stackfinder.ru/*
+*://*.digitrain.ru/*
+*://*.questu.ru/*
 
 *://*.overcoder.net/*
 *://*.code-examples.net/*
