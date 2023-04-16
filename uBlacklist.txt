@@ -13,6 +13,7 @@
 *://*.quabr.com/*
 *://*.try2explore.com/*
 *://*.bestofreactjs.com/*
+*://*.copyprogramming.com/*
 
 *://*.coderoad.ru/*
 *://*.qastack.ru/*
